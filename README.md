@@ -1,4 +1,4 @@
 # Yolo
 Yolo With Object Detection
-https://github.com/mserce2/Yolo/issues/1#issue-700656059
+![giphy](https://user-images.githubusercontent.com/64548477/93031309-513d7000-f632-11ea-8173-3d60c18ff7ee.gif)
 Video: (https://www.youtube.com/watch?v=lYYny7TmdLc)
